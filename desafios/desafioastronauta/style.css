@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+main>h1{
+    color: rgb(14, 197, 11);
+    text-align: center;
+    text-decoration: overline;
+   
+}
+
+main>h2{
+    color: rgb(1, 254, 47);
+    padding: 2px 15px;
+}
+
+main>p{
+    color: aliceblue;
+    padding-left: 10px;
+}
+.astronauta{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+  
+  
